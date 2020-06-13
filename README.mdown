@@ -1,3 +1,7 @@
+git version 2.2.0 for Mac is in the `RELEASE` section 
+
+this is for git filter-repo
+
 git-flow
 ========
 
